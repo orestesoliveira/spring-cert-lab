@@ -30,6 +30,8 @@
         <module>teste-aop</module>
         <module>teste-springbootteste</module>
         <module>teste-security</module>
+        <module>teste-custommeter</module>
+
     </modules>
 
     <dependencyManagement>
